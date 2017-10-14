@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0mAttempting to submit "forcomp" assignment in "progfun1" course[0m
+[0m[[0minfo[0m] [0mUsing:[0m
+[0m[[0minfo[0m] [0m- email: vdtodorov93@abv.bg[0m
+[0m[[0minfo[0m] [0m- submit token: Drkjj86jLJD1tXyI[0m
+[0m[[0minfo[0m] [0mConnecting to Coursera...[0m
+[0m[[31merror[0m] [0mSubmission failed.[0m
+[0m[[31merror[0m] [0mThere was something wrong while attempting to submit.[0m
+[0m[[31merror[0m] [0mCoursera says:[0m
+[0m[[31merror[0m] [0mCould not parse Coursera's response:[0m
+[0m[[31merror[0m] [0mMap(errorCode -> oldCourseVersionToken, message -> Token is for an old version of the course, details -> Map(learnerMessage -> You may have used a token from an older version of this course. Please regenerate your token on the assignment page and try submitting again., debugMessage -> Item is locked)) (Status 400)[0m

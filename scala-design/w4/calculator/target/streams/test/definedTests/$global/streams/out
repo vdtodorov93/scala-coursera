@@ -1,0 +1,2 @@
+[0m[[0mdebug[0m] [0mSubclass fingerprints: List((org.scalacheck.Properties,true,sbt.SubclassFingerprintWrapper@216d6ed3), (org.scalacheck.Prop,false,sbt.SubclassFingerprintWrapper@48c0bb2d), (org.scalacheck.Properties,false,sbt.SubclassFingerprintWrapper@69647fa8), (org.scalacheck.Prop,true,sbt.SubclassFingerprintWrapper@6cd00628), (org.scalatest.Suite,false,org.scalatest.tools.Framework$$anon$1@2601e697))[0m
+[0m[[0mdebug[0m] [0mAnnotation fingerprints: List((org.scalatest.WrapWith,false,org.scalatest.tools.Framework$$anon$2@6bd538a9))[0m
